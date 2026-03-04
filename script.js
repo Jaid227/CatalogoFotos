@@ -16,3 +16,7 @@ function abrirImagen(img){
 function cerrarImagen(){
     document.getElementById('visor').style.display = "none";
 }
+
+
+
+
